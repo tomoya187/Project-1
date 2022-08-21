@@ -1,0 +1,4 @@
+﻿  3_1_Project.cpp
+C:\Users\187to\source\repos\3_1_Project\3_1_Project\3_1_Project.cpp(24,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\187to\source\repos\3_1_Project\3_1_Project\3_1_Project.cpp(87,35): warning C4018: '>=': signed/unsigned mismatch
+  3_1_Project.vcxproj -> C:\Users\187to\source\repos\3_1_Project\Debug\3_1_Project.exe
